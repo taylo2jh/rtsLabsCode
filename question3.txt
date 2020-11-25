@@ -1,0 +1,3 @@
+If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?
+
+My least favorite thing about java has got to be the way it reads/writes files. The readers and io options are both clunky and counter intuitive, requiring a llot of time to fully understand, especially early on in my education. After seeing how Ruby and Python handle these options I definitely wish Java were more like them in that reguard. 
