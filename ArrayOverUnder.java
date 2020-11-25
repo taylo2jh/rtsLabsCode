@@ -14,7 +14,7 @@ public class ArrayOverUnder {
     //Gets the size of the array
 		if(input.hasNextInt()) {
 			size = input.nextInt();
-			if(size == 0) {
+			if(size <= 0) {
 				System.out.println("Size cannot be zero, reset program.");
 				input.close();
 				System.exit(0);
